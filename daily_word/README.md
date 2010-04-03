@@ -2,6 +2,15 @@
 
 Generates a desktop background with a random word + definition.
 
+## Prerequisites
+Packages needed, these are the packages names on ubuntu different distros may differ:
+
+ * wordnet
+ * wordnet-base
+ * wbritish
+ * librmagick-ruby
+
+
 ## Todo
 
  * Split into bin/lib
