@@ -20,4 +20,4 @@ Packages needed, these are the packages names on ubuntu different distros may di
    - Output file location
   
 ## Example
-![daily_word!](http://github.com/orangemug/gen_wallpaper/raw/master/daily_word/examples/unicorn.png)
+![daily_word!](http://github.com/orangemug/gen_wallpaper/raw/master/daily_word/examples/unicorn_cropped.png)
