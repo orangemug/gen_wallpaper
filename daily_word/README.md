@@ -10,6 +10,8 @@ Packages needed, these are the packages names on ubuntu different distros may di
  * wbritish
  * librmagick-ruby
 
+It also expects `Candice.ttf` in `resources/fonts/` unsure aboout the licence at the mo but you can download from <http://www.font-zone.com/download.php?fid=523>
+
 
 ## Todo
 
