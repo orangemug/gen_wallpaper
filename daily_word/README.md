@@ -22,4 +22,4 @@ It also expects `Candice.ttf` in `resources/fonts/` unsure aboout the licence at
    - Output file location
   
 ## Example
-![daily_word!](http://github.com/orangemug/gen_wallpaper/raw/master/daily_word/examples/unicorn_cropped.png)
+![daily_word!](https://github.com/orangemug/gen_wallpaper/raw/master/daily_word/examples/unicorn_cropped.png)
